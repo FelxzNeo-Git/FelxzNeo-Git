@@ -174,71 +174,31 @@ STATUS: LEARNING_MODE = TRUE
 
 # `> GITHUB_ANALYTICS`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=7A00FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=7A00FF&currStreakLabel=00BFFF"/>
-
-</div>
+<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=FelxzNeo-Git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=7A00FF&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FelxzNeo-Git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com/?user=FelxzNeo-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=7A00FF&currStreakLabel=00BFFF"/> </div>
 
 ---
 
 # `> ACTIVITY_MONITOR`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00BFFF&line=7A00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelxzNeo-Git&bg_color=0D1117&color=00BFFF&line=7A00FF&point=FFFFFF&area=true&hide_border=true&custom_title=FELXZNEO-GIT%20ACTIVITY" width="100%"/> </div>
 
 ---
 
 # `> ACHIEVEMENTS`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=FelxzNeo-Git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%"/> </div>
 
 ---
 
 # `> CONTRIBUTION_MATRIX`
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/FelxzNeo-Git/FelxzNeo-Git/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/> </div>
 
 ---
 
 # `> CONNECT`
 
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-</a>
-
-</div>
+<div align="center"> <a href="https://github.com/FelxzNeo-Git"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.instagram.com/felxzneo"> <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> </div>
 
 ---
 
