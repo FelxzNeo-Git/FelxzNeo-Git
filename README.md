@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:7A00FF&height=180&section=header&text=FELIPE%20DOS%20SANTOS&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULLSTACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF8C00,100:FF4500&height=180&section=header&text=FELIPE%20DOS%20SANTOS&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULLSTACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=55&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;Python+%7C+HTML+%7C+CSS+%7C+PHP;Frontend+Developer+in+Progress;Future+Fullstack+Developer;Learning.+Building.+Evolving." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;Python+%7C+HTML+%7C+CSS+%7C+PHP;Frontend+Developer+in+Progress;Future+Fullstack+Developer;Learning.+Building.+Evolving." alt="Typing Animation"/>
 
 <br>
 
@@ -174,13 +174,13 @@ STATUS: LEARNING_MODE = TRUE
 
 # `> GITHUB_ANALYTICS`
 
-<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=FelxzNeo-Git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=7A00FF&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FelxzNeo-Git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com/?user=FelxzNeo-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=7A00FF&currStreakLabel=00BFFF"/> </div>
+<div align="center"> <img height="180" src="https://github-readme-stats.shion.dev/api?username=FelxzNeo-Git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF4500&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FelxzNeo-Git&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF"/> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com/?user=FelxzNeo-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=FF4500&currStreakLabel=FF8C00"/> </div>
 
 ---
 
 # `> ACTIVITY_MONITOR`
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelxzNeo-Git&bg_color=0D1117&color=00BFFF&line=7A00FF&point=FFFFFF&area=true&hide_border=true&custom_title=FELXZNEO-GIT%20ACTIVITY" width="100%"/> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelxzNeo-Git&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFFFFF&area=true&hide_border=true&custom_title=FELXZNEO-GIT%20ACTIVITY" width="100%"/> </div>
 
 ---
 
@@ -213,7 +213,7 @@ STATUS: LEARNING_MODE = TRUE
 ╰────────────────────────────────────────────────────────────╯
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,50:00BFFF,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:0D1117&height=120&section=footer"/>
 
 <sub>⚡ SYSTEM ONLINE • KEEP LEARNING • KEEP BUILDING ⚡</sub>
 
