@@ -1,30 +1,35 @@
 <div align="center">
 
-# `> SYSTEM INITIALIZING...`
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:7A00FF&height=180&section=header&text=FELIPE%20DOS%20SANTOS&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=FULLSTACK%20DEVELOPER%20IN%20PROGRESS&descAlignY=55&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Learning+Python+%7C+HTML+%7C+CSS+%7C+PHP;Frontend+Developer+in+progress;Future+Fullstack+Developer;Building.+Learning.+Evolving." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;Python+%7C+HTML+%7C+CSS+%7C+PHP;Frontend+Developer+in+Progress;Future+Fullstack+Developer;Learning.+Building.+Evolving." alt="Typing Animation"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge\&logo=php\&logoColor=777BB4)](https://www.php.net/)
+<a href="https://github.com/FelxzNeo-Git">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
 
 </div>
 
 ---
 
-# `SYSTEM.INFO`
+# `> SYSTEM.INFO`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                  DEVELOPER PROFILE :: ONLINE                 ║
 ╠══════════════════════════════════════════════════════════════╣
-║ NAME       : Felipe Guilhermino                             ║
+║ NAME       : Felipe dos Santos                              ║
+║ USER       : FelxzNeo-Git                                   ║
 ║ STATUS     : Learning & Building                            ║
 ║ FOCUS      : Frontend Development                           ║
 ║ TARGET     : Fullstack Development                          ║
@@ -96,23 +101,43 @@ Embora meu objetivo final seja Fullstack, atualmente tenho mais facilidade e afi
 
 <div align="center">
 
-<table>
-<tr>
+<table> <tr> <td width="50%">
+🐔 Chicken Catcher
+STATUS :: IN DEVELOPMENT
+TYPE   :: GAME
 
-<td width="50%">
+Projeto de jogo desenvolvido para explorar lógica de programação, sistemas de gameplay e desenvolvimento dentro do Roblox.
 
-### 🐔 Chicken Catcher
+Stack: Lua • Roblox Studio
 
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00BFFF?style=for-the-badge"/>
+</td> <td width="50%">
+🎬 Cinematriz
+STATUS :: ACTIVE
+TYPE   :: PYTHON
 
-Um projeto de jogo desenvolvido para explorar lógica de programação, sistemas de gameplay e desenvolvimento dentro do Roblox.
+Projeto desenvolvido em Python como parte da minha evolução na programação e aplicação de lógica.
 
-**Stack:** Lua • Roblox Studio
+Stack: Python
 
-</td>
+</td> </tr> <tr> <td width="50%">
+🧩 DungeonMatrix
+STATUS :: LEARNING PROJECT
+TYPE   :: PYTHON
 
-</tr>
-</table>
+Um dos meus primeiros projetos maiores em Python, desenvolvido para praticar lógica e estruturação de código.
+
+Stack: Python
+
+</td> <td width="50%">
+🌐 A.A. Site
+STATUS :: COMPLETED
+TYPE   :: FRONTEND
+
+Site desenvolvido manualmente utilizando HTML, como parte da minha prática em desenvolvimento web.
+
+Stack: HTML • CSS
+
+</td> </tr> </table>
 
 </div>
 
